@@ -149,7 +149,6 @@ If you've used Scratch before and already have an account, then you can skip thi
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-
 - To get you first Scratch Badge, you just need to build your own original script.
 - Have a play around with different blocks and see what else you can make the cat do.
 - Show your teacher when you are done, to be awarded your badge.
