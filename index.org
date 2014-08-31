@@ -12,4 +12,9 @@
 </div>
 #+END_HTML
 * [[file:pages/1_Lesson.html][Lesson 1 - An Introduction to Scratch]]
+* [[file:pages/2_Lesson.html][Lesson 2 - Creating a Virual Pet]]
+* [[file:pages/3_Lesson.html][Lesson 3 - Functions, Variables and Loops]]
+* [[file:pages/4_Lesson.html][Lesson 4 - Changing Variables]]
+* [[file:pages/5_Lesson.html][Lesson 5 - Conditionals]]
+* [[file:pages/6_Lesson.html][Lesson 6 - Customising your Pet]]
 
