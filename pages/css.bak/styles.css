@@ -1,6 +1,6 @@
 /*GitHub Ribbon*/
 .ribbon {
-  background-color: #0071bb;
+  background-color: #4099ff;
   overflow: hidden;
   white-space: nowrap;
   position: absolute;
@@ -42,7 +42,8 @@ body {
   margin: 20px auto;
   clear: both;
 }
-p code {
+p code,
+li code {
   border-radius: 4px 4px 4px 4px;
   background: #B9E5FA;
   padding: 2px 5px;
@@ -110,7 +111,7 @@ pre {
 /* CSS For Lesson*/
 .link-heading {
   font-size: 15px;
-  background: #0071bb;
+  background: #4099ff;
   margin-top: 10px;
   padding: 10px 10px;
   border-radius: 3px;
@@ -129,14 +130,14 @@ pre {
 }
 h1 {
   font-size: 50px;
-  color: #0071bb;
+  color: #4099ff;
   margin-left: auto;
   margin-right: auto;
 }
 .activity h2 {
   font-size: 30px;
   color: #FFF;
-  background: #0071bb;
+  background: #4099ff;
   margin-top: 30px;
   padding: 10px 10px;
   border-radius: 5px;
@@ -195,7 +196,7 @@ video {
   background-image: url(icons/Save.svg);
 }
 h3 {
-  color: #0071bb;
+  color: #4099ff;
   background-position: 0px 10px;
   background-size: 40px 40px;
   background-repeat: no-repeat;
@@ -207,10 +208,10 @@ h3 {
   font-size: 20px;
   float: left;
   width: 100%;
-  border-top: 3px dotted #0071bb;
+  border-top: 3px dotted #4099ff;
 }
 /*CSS FOR LISTS*/
-li:before {
+ul li:before {
   clear: none;
   font-size: 16px;
   line-height: 24px;
@@ -219,12 +220,72 @@ li:before {
   margin-left: 5px;
   content: " ";
   border-radius: 4px;
-  border: 2px solid #0071bb;
+  border: 2px solid #4099ff;
   padding: 6px 6px;
   margin-right: 20px;
   float: left;
 }
+.org-ol {
+  list-style-type: none;
+  list-style-type: decimal !ie;
+  /*IE 7- hack*/
+  counter-reset: li-counter;
+}
+.org-ol > li {
+  position: relative;
+  margin-bottom: 6px;
+}
+.org-ol > li:before {
+  clear: none;
+  color: white;
+  background-color: #4099ff;
+  font-size: 10px;
+  line-height: 12px;
+  margin: 1px;
+  list-style-position: outside;
+  margin-left: 5px;
+  content: " ";
+  border-radius: 4px;
+  /* border: 3px solid @scheme-color;*/
+  padding: 3px 5px 3px 5px;
+  margin-right: 20px;
+  float: left;
+  content: counter(li-counter);
+  counter-increment: li-counter;
+}
 ul {
   list-style-type: none;
   line-height: 24px;
+}
+
+blockquote {
+font-family: Georgia, serif;
+font-size: 18px;
+font-style: italic;
+width: 500px;
+margin: 0.25em 0;
+padding: 0.25em 40px;
+line-height: 1.45;
+position: relative;
+color: #383838;
+}
+
+blockquote:before {
+display: block;
+content: "\201C";
+font-size: 80px;
+position: absolute;
+left: -20px;
+top: -20px;
+color: #7a7a7a;
+}
+blockquote cite {
+color: #999999;
+font-size: 14px;
+display: block;
+margin-top: 5px;
+}
+ 
+blockquote cite:before {
+content: "\2014 \2009";
 }
