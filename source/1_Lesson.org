@@ -98,7 +98,8 @@ Scratch is a programming language that can be used to make small programs and ga
 :HTML_CONTAINER_CLASS: code
 :END:
 If you've used Scratch before and already have an account, then you can skip this section.
-- Click on the =Join= button in the menu bar.
+- Goto [[http://scratch.mit.edu][THIS LINK to the Scratch website]]
+- Click on the =Join Scratch= button in the menu bar.
 [[file:img/join.png]]
 - Fill in the details required. Be sure to pick a username and password you will remember.
 - You might need to use your teacher's email address when you register.
