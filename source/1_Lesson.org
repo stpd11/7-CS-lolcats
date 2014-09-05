@@ -88,10 +88,11 @@ Scratch is a programming language that can be used to make small programs and ga
 - The Scratch GUI is split into 4 sections
 - These are listed below
 [[file:img/KEY.png]]
-1. The Blocks Palette
-2. The Scripts Area
-3. The Stage
-4. The Sprite List
+- The key areas are:
+ 1. The Blocks Palette
+ 2. The Scripts Area
+ 3. The Stage
+ 4. The Sprite List
 ** Code It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: code

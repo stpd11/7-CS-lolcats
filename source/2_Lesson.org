@@ -91,7 +91,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
 :END:
-- Use the web to find out some of the features that were common to most virtual pet games. A list has ben started for you below:
+- Use the web to find out some of the features that were common to most virtual pet games. A list has been started for you below:
   - Feeding
   - Petting
   - Scolding
