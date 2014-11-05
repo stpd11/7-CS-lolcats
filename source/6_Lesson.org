@@ -1,4 +1,4 @@
-#+STARTUP:indent
+ #+STARTUP:indent
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil  
@@ -88,7 +88,7 @@
 - To earn your last badge, you need to customise your pet.
 - The time you have to do this will depend on how quickly you finished the other lessons.
 - Customise your script to make it your own project. You can add anything that you like, but some ideas might be to:
-  1. Add scripts for PetFitness. Maybe if your Pet doesn't exercise it can grow fatter. Maybe it performs a little animation when you tewll it to exercise.
+  1. Add scripts for PetFitness. Maybe if your Pet doesn't exercise it can grow fatter. Maybe it performs a little animation when you tell it to exercise.
   2. Add scripts for PetToilet. Maybe your pet becomes stinky if it doesn't go to the toilet.
   3. Add scripts to make your pet misbehave. Maybe it runs about the screen, or starts messing with other sprites. You have to punish your pet to make it behave.
 - The quality and complexity of your customisation will determine which colour badge your teacher awards you.
