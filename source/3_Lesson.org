@@ -83,7 +83,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-
+- Open up the =Virtual_LOL_Cat= script you were working on last lesson.
 - Functions are really important in coding.
 - *A funtion is a /named/ part of a program that performs some /specific task/*
 - In Scratch, /Functions/ are called /Blocks/.
@@ -218,7 +218,7 @@ KillPet
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-
 - To get your badge for this section, you're going to need to create a new Scratch file.
 - Create an animation where a character explains the concepts of Functions, Variables and Loops to someone who has never heard of the terms. Try to come up with your own examples.
 - How clear the explanation is will determine whether you are awarded a Silver, Gold or Platinum badge.
+- You will have only _one_ lesson to work on this, so don't make it too complicated.

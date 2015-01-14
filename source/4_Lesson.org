@@ -84,7 +84,6 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
 :END:
-
 - At the moment, all we have is a script that kills the pet when it's hunger reaches 100.
 - We need a way to feed the pet, so that we can reset it's hunger back to 0
 - To do this, we'll need a new sprite. Either draw or find a picture of some food that is appropriate to feed your pet with.
@@ -94,7 +93,6 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: code
 :END:
-
 - We need to import our image into Scratch next, so that we can use it as a Sprite.
 - In the Sprites panel, click on the upload button and choose your image of the pet food.
 [[file:img/Upload.png]]
@@ -129,10 +127,13 @@ set PetHunger to 0
 :HTML_CONTAINER_CLASS: badge
 :END:
 In the previous lesson you made variables for =PetTiredness=, =PetThirst= and =PetHappiness=. To get your badge for this lesson you need to complete the following tasks. Complete all three and you'll get a platinum badge.
+- Silver
 [[file:img/Drinking_Cat.jpeg]]
   1. Find or make an image to represent a drink for your pet. PetThirst should increase gradually increase and then be reset to 0 when the drink sprite is clicked. If it reaches 100, the pet should die.
+- Gold
 [[file:img/Sleepy_Cat.gif]]
   2. Find or make an image to represent a bed for your pet. PetTiredness should increase gradually and then be reset to 0 when the bed sprite is clicked. If it reaches 100 the pet should die.
+- Platinum
 [[file:img/Needy_Cat.jpg]]
   3. PetHappiness should start at 100 and gradually decrease until it hits 0, at which point the pet should die. If the pet sprite is clicked (representing stroking the pet), then it's happiness should be reset to 100.
 

@@ -121,9 +121,9 @@ If you've used Scratch before and already have an account, then you can skip thi
 :END:
 - To run our Scratch script, you just need to click on the =Green Flag= in the Stage area.
 [[file:img/Hello2.png]]
-** Try It
+** Badge It - Silver
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: try
+:HTML_CONTAINER_CLASS: badge
 :END:
 - Try changing what the cat says and how long it says it for.
 [[file:img/Happeh.png]]
@@ -140,17 +140,16 @@ If you've used Scratch before and already have an account, then you can skip thi
 :HTML_CONTAINER_CLASS: run
 :END:
 - Click on the =Green Flag= in the Stage area.
-** Try It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: try
-:END:
-
-- Try to change the script so that after the cat has grown, it says "IM SHRINKIN" and then returns to it's regular size.
-- HINT: You can use negative numbers in Scratch.
-** Badge It
+** Badge It - Gold
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- To get you first Scratch Badge, you just need to build your own original script.
-- Have a play around with different blocks and see what else you can make the cat do.
-- Show your teacher when you are done, to be awarded your badge.
+- Try to change the script so that after the cat has grown, it says "IM SHRINKIN" and then returns to it's regular size.
+- HINT: You can use negative numbers in Scratch.
+** Badge It - Platinum
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Try an experiment with getting the cat to move around.
+- To get your platinum badge you need to make the cat move around in a large circle.
+- You'll probably want to look into using a loop to achieve this.

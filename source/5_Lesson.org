@@ -95,8 +95,13 @@ At the moment your Virtual Pet is probably a little dull.
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: test
 :END:
-
+** Badge It - Silver
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
 - Have a friend try your Virtual Pet and give you some feedback.
+- Have them email you their feedback.
+- Write down the changes you will make in response to their feedback.
 * Getting the Pet to talk with an Infinite loop and Conditionals
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -109,7 +114,6 @@ At the moment your Virtual Pet is probably a little dull.
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-
 - Sometimes in our programmes we want an infinite loop.
 - An infinite loop is one that goes on forever (or until the program is quit).
 - We can do this by using a =forever= loop in Scratch.
@@ -233,7 +237,8 @@ forever
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-
 - To earn your next badge you need to set it all up for Tiredness, Happiness and Thirst.
 - Make sure that you create lists for each of the different variables, so the pet can tell the user what is wrong.
 - Make sure you have at least five elements in each list.
+- You'll receive a Silver, Gold or Platinum badge, depending on how many of the scripts you manage to set up.
+- Take a screenshot of your scripts when you have completed them.
