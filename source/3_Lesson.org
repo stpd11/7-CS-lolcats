@@ -83,9 +83,10 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
+- In this lesson you will learn about functions, loops and variables.
 - Open up the =Virtual_LOL_Cat= script you were working on last lesson.
 - Functions are really important in coding.
-- *A funtion is a /named/ part of a program that performs some /specific task/*
+- *A function is a /named/ part of a program that performs some /specific task/*
 - In Scratch, /Functions/ are called /Blocks/.
 - Imagine I wanted you to make me a cheese sandwich. I could give you a set of instructions such as:
   1. Take two pieces of bread.
@@ -117,7 +118,6 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: run
 :END:
-
 - Test your code to make sure it works like it did before. The pet should die when the space key is pressed.
 * Using variables
 :PROPERTIES:
@@ -213,12 +213,15 @@ KillPet
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-
 ** Badge It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
 - To get your badge for this section, you're going to need to create a new Scratch file.
 - Create an animation where a character explains the concepts of Functions, Variables and Loops to someone who has never heard of the terms. Try to come up with your own examples.
-- How clear the explanation is will determine whether you are awarded a Silver, Gold or Platinum badge.
+- You will need use the comments feature, your teacher will show you how, to explain the concepts of Functions, Loops and Variables.
 - You will have only _one_ lesson to work on this, so don't make it too complicated.
+
+- For the *silver* badge - you will define the three terms.
+- For the *gold* badge - you tag the correct Scratch block for each term.
+- For the *platinium* badge - you need to explain why the three concepts are useful to the programmer. 

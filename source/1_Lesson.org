@@ -76,7 +76,9 @@
 :END:
 
 * An introduction to Scratch
+- In your first lesson of this topic you are going to learn how to hand work in and, for those how have never used it before, an introduction to the Scratch programming language.
 [[file:img/GUI.png]]
+
 Scratch is a programming language that can be used to make small programs and games. Above is the Graphical User Interface (GUI) for Scratch. A GUI is how the a user interacts with software.
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -85,14 +87,14 @@ Scratch is a programming language that can be used to make small programs and ga
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- The Scratch GUI is split into 4 sections
-- These are listed below
+- The Scratch GUI is split into 4 sections.
+- These are listed below:
 [[file:img/KEY.png]]
 - The key areas are:
- 1. The Blocks Palette
- 2. The Scripts Area
- 3. The Stage
- 4. The Sprite List
+   - 1. The Blocks Palette
+   - 2. The Scripts Area
+   - 3. The Stage
+   - 4. The Sprite List
 ** Code It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: code
@@ -139,7 +141,11 @@ If you've used Scratch before and already have an account, then you can skip thi
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- *Silver:* Try changing what the cat says and how long it says it for.
+- As this is the first time you have added a badge to bourneToLearn.com here is a video to help you.
+*link here*
+
+
+*Silver:* Try changing what the cat says and how long it says it for.
 [[file:img/Happeh.png]]
 
 - *Gold:* Try to change the script so that after the cat has grown, it says "IM SHRINKIN" and then returns to it's regular size.

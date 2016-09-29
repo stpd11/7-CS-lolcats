@@ -82,6 +82,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
+- In this second lesson of this topic we are going to learn to create basic scripts to follow a sequence.
 - Virtual pets were very common and popular a few years ago.
 [[file:img/Tamagotchi.jpg]]
 - Pets such as the [[http:http://en.wikipedia.org/wiki/Tamagotchi][Tamagotchi]] were tiny computers with software on them that simulated a pet.
@@ -100,7 +101,7 @@
 :HTML_CONTAINER_CLASS: activity
 :END:
 [[file:img/Dead_cat.jpg]]
-- Create a new Scratch project called =Virtual_LOL_Cat=
+- Create a new Scratch project called =Virtual_LOL_Cat=.
 - No matter how good a gamer you are, your character always dies in the end. So that's the first thing we'll be setting up.
 ** Research It
 :PROPERTIES:
@@ -185,5 +186,5 @@ stop all
 
 
 - *Silver:* You add two (or more) minor changes to the pet death routine.
-- *Gold:* You add two more more major changes (e.g. detailed animations, sound)
-- *Platinum*: You add multiple major changes to make the death scene more elaborate
+- *Gold:* You complete the death and reset scripts.
+- *Platinum*: You add a new script that when you click the button =b= it changes the background.
